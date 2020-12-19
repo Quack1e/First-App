@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="firstString">welcome to android</string>
+    <string name="buttonLabel">CLick here</string>
+</resources>
